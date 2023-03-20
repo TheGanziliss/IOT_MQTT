@@ -1,0 +1,17 @@
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\bin\Debug\net6.0\IotMqttServer.exe
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\bin\Debug\net6.0\IotMqttServer.deps.json
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\bin\Debug\net6.0\IotMqttServer.runtimeconfig.json
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\bin\Debug\net6.0\IotMqttServer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\bin\Debug\net6.0\IotMqttServer.pdb
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\bin\Debug\net6.0\M2Mqtt.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.csproj.AssemblyReference.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.AssemblyInfoInputs.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.AssemblyInfo.cs
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.csproj.CoreCompileInputs.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.csproj.CopyComplete
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\refint\IotMqttServer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.pdb
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\IotMqttServer.genruntimeconfig.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\IotMqttServer\IotMqttServer\obj\Debug\net6.0\ref\IotMqttServer.dll
