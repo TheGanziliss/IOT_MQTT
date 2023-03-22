@@ -1,3 +1,3 @@
 #  1.Objective
 
-The aim of this repository is to retrieve real-time currency values from the **Investing.com** website and create an application that generates alerts based on this data.
+The aim of this repository is to create an application that takes the data published by multiple machines and saves it to the database.
