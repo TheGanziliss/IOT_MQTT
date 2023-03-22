@@ -6,7 +6,7 @@ The aim of this repository is to create an application that takes the data publi
 
 .NET Core is a cross-platform framework that can be run for Windows, macOS, and Linux. Moreover, it is open-source and accepts contributions from the developer’s community.
 
-#What is MQTT?
+# 3.What is MQTT?
 
 MQTT (Message Queuing Telemetry Transport) is a messaging protocol for restricted low-bandwidth networks and extremely high-latency IoT devices. Since Message Queuing Telemetry Transport is specialized for low-bandwidth, high-latency environments, it is an ideal protocol for machine-to-machine (M2M) communication.
 
