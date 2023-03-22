@@ -6,11 +6,17 @@ The aim of this repository is to create an application that takes the data publi
 
 .NET Core is a cross-platform framework that can be run for Windows, macOS, and Linux. Moreover, it is open-source and accepts contributions from the developer’s community.
 
-## 3a. Development Environment
+#What is MQTT?
+
+MQTT (Message Queuing Telemetry Transport) is a messaging protocol for restricted low-bandwidth networks and extremely high-latency IoT devices. Since Message Queuing Telemetry Transport is specialized for low-bandwidth, high-latency environments, it is an ideal protocol for machine-to-machine (M2M) communication.
+
+MQTT works on the publisher / subscriber principle and is operated via a central broker. This means that the sender and receiver have no direct connection. The data sources report their data via a publish and all recipients with interest in certain messages (“marked by the topic”) get the data delivered because they have registered as subscribers.
+
+## 4a. Development Environment
 - Windows 10
 - Visual Studio 2022 with latest updates
 
-## 3b. Runtime Requirements
+## 4b. Runtime Requirements
 - .NET Runtime [(.NET 6)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - mosquitto-2.0.15(https://mosquitto.org/download/)
 - MS SQL Server
