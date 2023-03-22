@@ -19,5 +19,5 @@ MQTT works on the publisher / subscriber principle and is operated via a central
 ## 4b. Runtime Requirements
 - .NET Runtime [(.NET 6)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - mosquitto-2.0.15(https://mosquitto.org/download/)
+- Mqtt Broker
 - MS SQL Server
-
