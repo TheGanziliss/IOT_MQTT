@@ -20,3 +20,6 @@ MQTT works on the publisher / subscriber principle and is operated via a central
 - .NET Runtime [(.NET 6)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - mosquitto-2.0.15(https://mosquitto.org/download/)
 - MS SQL Server
+
+# Running The APP
+
