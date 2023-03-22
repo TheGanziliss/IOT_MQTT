@@ -26,11 +26,7 @@ MQTT works on the publisher / subscriber principle and is operated via a central
 - As demonstrated below, the application is it takes the data under the specified topics and saves it to the database.
 
 <p>
-    <img src="/Images/mqttServer.jpg" width="40%" height="40%"> , <img src="/Images/mqttClient.jpg" width="30%" height="30%">
-</p>
-
-<p>
-    <img src="/Images/mqttClient.jpg" width="30%" height="30%">
+    <img src="/Images/mqttServer.jpg" width="40%" height="40%"> , <img src="/Images/mqttClient.jpg" width="20%" height="20%"> , <img src="/Images/mssql.jpg" width="15%" height="15%">
 </p>
 
 <p>
