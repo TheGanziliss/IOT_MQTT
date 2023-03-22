@@ -23,7 +23,7 @@ MQTT works on the publisher / subscriber principle and is operated via a central
 
 # Running The APP
 
-- As demonstrated below, the application is designed to retrieve real-time data from a specified investment website link at regular intervals in order to provide the most up-to-date information for analysis and decision-making purposes.
+- As demonstrated below, the application is it takes the data under the specified topics and saves it to the database.
 
 <p>
     <img src="/Images/mqttServer.jpg" width="65%" height="65%">
