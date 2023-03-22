@@ -34,5 +34,5 @@ MQTT works on the publisher / subscriber principle and is operated via a central
 </p>
 
 <p>
-    <img src="/Images/mssql.jpg" width="10%" height="10%">
+    <img src="/Images/mssql.jpg" width="15%" height="15%">
 </p>
